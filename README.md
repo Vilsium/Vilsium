@@ -1,12 +1,12 @@
 <!--
-## Hi there, I'm Anchit Das👋
+## Hi there, I'm Vyom Singhal👋
 
 ![anchit](https://github.com/user-attachments/assets/89a95a8b-af56-4909-98c0-b674a3e7e7ff)
 
-- 🔭 I’m currently working on **Game Development & Web Development**
-- 🌱 I’m currently learning **Three.Js**
-- 📫 How to reach me: anchitd10@gmail.com
-- ⚡ Fun fact: I can be your best football buddy!
+- 🔭 I’m currently working on **Problem Solving, Backend Development & Web Development**
+- 🌱 I’m currently learning **Go, Spring Boot**
+- 📫 How to reach me: vilsium28@gmail.com
+- ⚡ Fun fact: I can be your best travelling buddy!
 <!--
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
@@ -51,11 +51,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,mysql,mongodb,git,github,ai" alt="Tools Icons" />
 </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vilsium&theme=onedark" alt="Vilsium" /></a> </p>
-
+-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilsium&show_icons=true&locale=en&layout=compact" alt="Vilsium" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vilsium&show_icons=true&locale=en" alt="Vilsium" /></p>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vilsium&" alt="Vilsium" /></p>
+-->
