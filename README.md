@@ -1,8 +1,6 @@
 <!--
 ## Hi there, I'm Vyom Singhal👋
 
-![anchit](https://github.com/user-attachments/assets/89a95a8b-af56-4909-98c0-b674a3e7e7ff)
-
 - 🔭 I’m currently working on **Problem Solving, Backend Development & Web Development**
 - 🌱 I’m currently learning **Go, Spring Boot**
 - 📫 How to reach me: vilsium28@gmail.com
@@ -56,6 +54,6 @@
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilsium&show_icons=true&locale=en&layout=compact" alt="Vilsium" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="Vilsium" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vilsium&show_icons=true&locale=en" alt="Vilsium" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vilsium&" alt="Vilsium" /></p>
