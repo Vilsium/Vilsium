@@ -49,9 +49,9 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,mysql,mongodb,git,github,ai" alt="Tools Icons" />
 </p>
-<!--
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vilsium&theme=onedark" alt="Vilsium" /></a> </p>
--->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vilsium&show_icons=true&locale=en&layout=compact" alt="Vilsium" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vilsium&show_icons=true&locale=en" alt="Vilsium" /></p>
